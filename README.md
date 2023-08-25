@@ -1,5 +1,6 @@
 # Acunetix-API-delete-targets
-Delete old targets in acunetix with API 
+
+![DALL·E 2023-08-25 10 45 14](https://github.com/jarvarbin/Acunetix-API-delete-targets/assets/93614373/a5fd0f0c-b838-4b0a-aeec-81eb01432f5a)
 
 
 ## 🎯 Monitoreo y Eliminación de Targets 🧹
