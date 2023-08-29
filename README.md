@@ -1,7 +1,19 @@
 # Acunetix-API-delete-targets
 
-![DALL·E 2023-08-25 10 45 14](https://github.com/jarvarbin/Acunetix-API-delete-targets/assets/93614373/a5fd0f0c-b838-4b0a-aeec-81eb01432f5a)
-
+'''
+o
+ \_/\o
+( Oo)                    \|/
+(_=-)  .===O-  ~~A~C~U~N~E-T-I-X -K.O-
+/   \_/U'                /|\
+||  |_/
+\\  |
+{K ||
+ | PP
+ | ||
+ (__\\
+Acunetix killer
+'''
 
 ## 🎯 Monitoreo y Eliminación de Targets 🧹
 Este script está diseñado para gestionar targets en un sistema, permitiendo eliminar aquellos que no han sido escaneados o aquellos que son antiguos basados en una fecha límite.
