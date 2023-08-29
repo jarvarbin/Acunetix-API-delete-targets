@@ -1,6 +1,7 @@
 # Acunetix-API-delete-targets
 
-'''o
+```
+o
  \_/\o
 ( Oo)                    \|/
 (_=-)  .===O-  ~~A~C~U~N~E-T-I-X -K.O-
@@ -11,7 +12,9 @@
  | PP
  | ||
  (__\\
-Acunetix killer'''
+Acunetix killer
+
+```
 
 ## 🎯 Monitoreo y Eliminación de Targets 🧹
 Este script está diseñado para gestionar targets en un sistema, permitiendo eliminar aquellos que no han sido escaneados o aquellos que son antiguos basados en una fecha límite.
