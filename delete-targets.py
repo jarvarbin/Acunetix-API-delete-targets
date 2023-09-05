@@ -1,4 +1,3 @@
-#Dudas preguntar a juan
 import requests
 import json
 import datetime
